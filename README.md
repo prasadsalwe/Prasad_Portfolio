@@ -1,5 +1,5 @@
 # Prasad_Portfolio
-Analytics Porfolio
+## About
 
 Hi, I am prasad salwe.I am an [Engineer (Electronics) + Management (Operations)] professional with an analytics background. I have developed a strong foundation in data and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as a data specialist.
 
